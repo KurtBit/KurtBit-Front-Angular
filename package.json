@@ -1,0 +1,11 @@
+{
+  "name": "kurtbit-front-angular",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {},
+  "author": "KurtBit",
+  "peerDependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
